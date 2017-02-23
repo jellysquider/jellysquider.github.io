@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to be friends with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Gabriela Medvetska. I do awesome things like:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am building a dictionary to develop gender-sensitive terminology in Ukrainian language.
+- I am volunteering as an audio-/videoeditor for a project _Books that Talk_ to provide audiobooks for visually impaired children.
+- I am so passionate about Ukraine and willing to help others discover it that I also develop a self-study course for learning Ukrainian as a Foreign Language.
 
-What else do you need?
 
-### my history
+### Personal stuff
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have an awesome dog Ronnie JD and genius girlfriend [Valeska](https://github.com/MissValeska)(go on, check out her github too!)
