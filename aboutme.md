@@ -13,4 +13,4 @@ My name is Gabriela Medvetska. I do awesome things like:
 
 ### Personal stuff
 
-I have an awesome dog Ronnie JD and genius girlfriend [Valeska](https://github.com/MissValeska)(go on, check out her github too!)
+I have an awesome dog Ronnie JD and genius girlfriend [Valeska](https://github.com/MissValeska) (go on, check out her github too!)
