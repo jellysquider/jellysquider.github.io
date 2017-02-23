@@ -26,7 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Projects:
     - Dictionary of Feminitives: "fem-dict"
-    - Ukrainian Language: "http://jellysquider.github.io/uafl/"
+    - Ukrainian Language: "uafl"
     - Books that Talk: "http://virvua.info/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
