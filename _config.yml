@@ -25,7 +25,7 @@ description: Trigger Warning I talk a lot!
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - Dictionary of Feminitives: "http://jellysquider.github.io/fem-dict/"
+    - Dictionary of Feminitives: "fem-dict"
     - Ukrainian Language: "http://jellysquider.github.io/uafl/"
     - Books that Talk: "http://virvua.info/"
 
