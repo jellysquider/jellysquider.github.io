@@ -25,5 +25,5 @@ Our final result will be a popular and useful open-source online dictionary. Use
 ### Prototype
 I already designed [an MVP](https://invis.io/CV97HLKF5) of the website, developed FE and currently we are working on a database of existing words.
 
-https://mir-s3-cdn-cf.behance.net/project_modules/1400/637cd245694405.5839ca8603aa7.png
+![Mockup](https://mir-s3-cdn-cf.behance.net/project_modules/1400/637cd245694405.5839ca8603aa7.png)
 
