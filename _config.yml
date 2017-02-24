@@ -28,6 +28,7 @@ navbar-links:
     - Dictionary of Feminitives: "fem-dict"
     - Ukrainian Language: "uafl"
     - Books that Talk: "http://virvua.info/"
+  Resume: "/gabriela_medvetska_cv.pdf
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
