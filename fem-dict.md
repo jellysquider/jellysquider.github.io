@@ -5,11 +5,9 @@ description: My project
 ---
 
 ### Background
-
-There is a crucial need to develop Ukrainian language along with various social reforms. Gender stereotyping cannot be overcome without proper gendered terminology. 
+There is a crucial need to develop Ukrainian language along with various social reforms. Gender stereotypes cannot be overcome without proper gendered terminology. Ukrainian language has a masculine–feminine–neuter grammatical gender system. Thus, there is a specific set of rules how words of different gender are formed. The issue of using feminitives (feminine-gendered nouns) has been recurring since 1960s and using masculine-gendered nouns for defining female-related ones is against morphological and syntactic rules of Ukrainian language [[1]](http://povaha.org.ua/pyat-prychyn-vzhyvaty-feminityvy/).
 
 ### Objectives
-
 - Spread awareness about the feminitives (why, when and how they are used; why they are needed at all; what are the guidelines of their formation)
 - Develop a web application where anyone can look up existing feminitives, their forms, meaning and usage
 - Demonstrate real-life applications of feminitives in literature as well as in tech documentation. Provide a link from existing explanatory dictionary (1980’s)
@@ -21,6 +19,11 @@ There is a crucial need to develop Ukrainian language along with various social 
 - Create a database of feminitives which will be an effective aid for the explanatory dictionary NAS is compiling right now
 
 ## Scope
-
 Our final result will be a popular and useful open-source online dictionary. Users could register and login to their portal, add new feminitives or notify moderators which words need to be added. From the portal they would also be able to access history of their recent activities, threads of pages’ comments they follow and list of their favorite words. In the long run, the website statistics will be used to prove NAS the need to include feminitives in the new explanatory dictionary edition.
+
+
+### Prototype
+I already designed [an MVP](https://invis.io/CV97HLKF5) of the website, developed FE and currently we are working on a database of existing words.
+
+https://mir-s3-cdn-cf.behance.net/project_modules/1400/637cd245694405.5839ca8603aa7.png
 
