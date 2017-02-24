@@ -9,7 +9,7 @@ I do awesome things like:
 
 - building a dictionary to develop gender-sensitive terminology in Ukrainian language
 - volunteering as an audio-/videoeditor for a project _Books that Talk_ to provide audiobooks for visually impaired children
-- being so passionate about Ukraine and willing to help others discover it that I also develop a self-study course for learning Ukrainian as a Foreign Language
+- being so passionate about Ukraine and willing to help others discover it that I'm also developing a self-study course for learning Ukrainian as a Foreign Language
 
 
 ### Personal stuff
