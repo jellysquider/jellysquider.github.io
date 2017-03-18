@@ -9,10 +9,10 @@ It's hard and, moreover, inefficient to keep all information that can be stored 
 
 Here we go! [^1]
 
-* [Mozilla Developer Network][https://developer.mozilla.org/en-US/]
-* [A book about Eloquent JS][http://eloquentjavascript.net/]
-* [JS Fiddle for a real-time connected web authoring][https://jsfiddle.net/]
-* [A book about JS patterns][https://addyosmani.com/resources/essentialjsdesignpatterns/book/]
-* [Google for Education][https://developers.google.com/edu/]
+* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [A book about Eloquent JS](http://eloquentjavascript.net/)
+* [JS Fiddle for a real-time connected web authoring](https://jsfiddle.net/)
+* [A book about JS patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Google for Education](https://developers.google.com/edu/)
 
 [^1] This list does not support sorting/filtering by any means.
