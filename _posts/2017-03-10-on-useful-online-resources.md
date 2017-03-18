@@ -15,4 +15,4 @@ Here we go! [^1]
 * [A book about JS patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Google for Education](https://developers.google.com/edu/)
 
-[^1] This list does not support sorting/filtering by any means.
+[^1]: This list does not support sorting/filtering by any means.
