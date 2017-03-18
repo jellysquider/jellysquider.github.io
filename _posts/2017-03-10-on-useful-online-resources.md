@@ -14,5 +14,6 @@ Here we go! [^1]
 * [JS Fiddle for a real-time connected web authoring](https://jsfiddle.net/)
 * [A book about JS patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [Google for Education](https://developers.google.com/edu/)
+* [And of course stuff from GitHub users](https://github.com/dypsilon/frontend-dev-bookmarks)
 
 [^1]: This list does not support sorting/filtering by any means.
