@@ -9,6 +9,7 @@ It's hard and, moreover, inefficient to keep all information that can be stored 
 
 Here we go! [^1]
 
+* [Web Accessibility](https://github.com/showcases/web-accessibility)
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [All of the Fonts one will ever need](http://kadavy.net/allthefontsyoulleverneed-kadavy.pdf)
 * [A book about Eloquent JS](http://eloquentjavascript.net/)
