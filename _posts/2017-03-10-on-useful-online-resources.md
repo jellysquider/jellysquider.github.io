@@ -10,6 +10,7 @@ It's hard and, moreover, inefficient to keep all information that can be stored 
 Here we go! [^1]
 
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+* [All of the Fonts one will ever need](http://kadavy.net/allthefontsyoulleverneed-kadavy.pdf)
 * [A book about Eloquent JS](http://eloquentjavascript.net/)
 * [JS Fiddle for a real-time connected web authoring](https://jsfiddle.net/)
 * [A book about JS patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
