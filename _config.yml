@@ -24,10 +24,10 @@ description: Trigger Warning - I talk a lot!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Projects:
-    - Dictionary of Feminitives: "fem-dict"
-    - Ukrainian Language: "uafl"
-    - Books that Talk: "http://virvua.info/"
+  #Projects:
+   # - Dictionary of Feminitives: "fem-dict"
+    #- Ukrainian Language: "uafl"
+    #- Books that Talk: "http://virvua.info/"
   Resume: "jellysquider.github.io/gabriela_medvetska_cv.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
